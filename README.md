@@ -3,7 +3,7 @@
 <param ve-config 
        title="FIGS"
        author="Elise Boisvert, Emma Van Metre, Alejandra Gonzalez, JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/elizabethblackwell_curiousherbal_fig.jpg?w=1366&ssl=1" 
+       banner="https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/elizabethblackwell_curiousherbal_fig.jpg?w=1366&ssl=1" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
