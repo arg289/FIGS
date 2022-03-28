@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="FIGS"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       author="Elise Boisvert, Emma Van Metre, Alejandra Gonzalez, JSTOR Labs team"
+       banner="https://iiif.juncture-digital.org/banner/https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/elizabethblackwell_curiousherbal_fig.jpg?w=1366&ssl=1" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
