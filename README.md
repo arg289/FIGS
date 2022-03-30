@@ -20,8 +20,9 @@ Ficus carica, the common fig, is recognized by many to be the first fruit cultiv
 <param ve-image 
        manifest="https://radeecalcommunications.wordpress.com/2017/08/11/fig-different-types-and-pollination/#jp-carousel-108">
 
-# Basic usage
-
+ F. carica has been grown, bred and enjoyed by humans for over 11,000 years. Originating in Asia Minor (part of modern day Turkey), it is now naturalized throughout much of Asia and North America, and is cultivated for production, and as an ornamental across the globe. Its spread was facilitated in large part by trade and the movement of peoples. 
+ <param ve-image 
+       manifest="https://www.atlasbig.com/images/World-Figs-Production-Map.png">
 ## Image
 
 _Ficus carica_ (Dutch: Meisje met de parel) is yummy to eat.[^1]
