@@ -20,9 +20,23 @@ Ficus carica, the common fig, is recognized by many to be the first fruit cultiv
 <param ve-image 
        manifest="https://radeecalcommunications.wordpress.com/2017/08/11/fig-different-types-and-pollination/#jp-carousel-108">
 
- F. carica has been grown, bred and enjoyed by humans for over 11,000 years. Originating in Asia Minor (part of modern day Turkey), it is now naturalized throughout much of Asia and North America, and is cultivated for production, and as an ornamental across the globe. Its spread was facilitated in large part by trade and the movement of peoples. 
+# First Cultivated Fruit
+F. carica has been grown, bred and enjoyed by humans for over 11,000 years. Originating in Asia Minor (part of modern day Turkey), it is now naturalized throughout much of Asia and North America, and is cultivated for production, and as an ornamental across the globe. Its spread was facilitated in large part by trade and the movement of peoples. 
+
  <param ve-image 
        manifest="https://www.atlasbig.com/images/World-Figs-Production-Map.png">
+    
+# First Cultivated Fruit
+Figs prefer a subtropical environment, and individual trees in some areas have been known to grow to be 100s of years old, with the oldest being 285 years old. F. carica is the largest genus in the Moraceae family, which includes Mulberry and Osage Orange. All Moraceae have laticifers, networks of specialized cells that produce a milky white latex sap for healing in response to damage.
+
+<param ve-image 
+       manifest="https://www.atlasbig.com/images/World-Figs-Production-Map.png">
+
+Most modern varieties of the common fig are parthenocarpic, meaning they do not require pollination to set “fruit,” and they do not produce viable seed. These must be propagated by cutting. Other cultivars (Smyrna, or the California-grown hybrids Calimyrna) must be pollinated in order to set fruit. This is done by a species of wasp, Blastophega psenes (Anjam, et al., 2017). 
+
+<param ve-image 
+       manifest="https://www.atlasbig.com/images/World-Figs-Production-Map.png">
+
 ## Image
 
 _Ficus carica_ (Dutch: Meisje met de parel) is yummy to eat.[^1]
