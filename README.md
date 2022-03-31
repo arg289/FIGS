@@ -42,7 +42,7 @@ The life cycle of Blastophega psenes is inextricably tied to that of Ficus caric
 <param ve-image 
        label="Fig Wasps" 
        description="Life cycle of a fig wasp" 
-       url="https://www.britannica.com/animal/fig-wasp">
+       url="https://cdn.britannica.com/17/24017-050-6D1C575F/life-cycle-fig-wasp.jpg">
 
 ## Early Domestic Fig in the Jordan Valley 
 
