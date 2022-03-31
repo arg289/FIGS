@@ -101,9 +101,9 @@ The fig is also very important to Buddhist tradition, as it was under this tree 
 
 [^1]: [Anjam, K., Khadivi-Khub, A. & Sarkhosh, A. The Potential of Caprifig Genotypes for Sheltering Blastophaga psenes L. for Caprification of Edible Figs. Erwerbs-Obstbau 59, 45–49 (2017).](https://doi.org/10.1007/s10341-016-0296-4)
 [^2]: Armstrong, W.P. 1988. "The Calimyrna Fig and Its Wasp." California Garden 79: 135-138.
-[^3]: [Armstrong, W. P. (n.d.). Ancient Figs Of The Holy Land. Figs of the holy land. Retrieved March 30, 2022] (https://www2.palomar.edu/users/warmstrong/ww0501.htm)
+[^3]: [Armstrong, W. P. (n.d.). Ancient Figs Of The Holy Land. Figs of the holy land. Retrieved March 30, 2022](https://www2.palomar.edu/users/warmstrong/ww0501.htm)
 [^4]: Condit, I.J. 1920. "Caprifigs and Caprification." California Agriculture Experimental Station Bulletin 319: 341-377.
-[^5]: [“Figs” Turismo Roma. (2022, January 28). Retrieved March 30, 2022] (https://www.turismoroma.it/en/2092013-i-fichi)
+[^5]: [“Figs” Turismo Roma. (2022, January 28). Retrieved March 30, 2022](https://www.turismoroma.it/en/2092013-i-fichi)
 [^6]: Kislev ME, Hartmann A, Bar-Yosef O. Early domesticated fig in the Jordan Valley. Science. 2006 Jun 2;312(5778):1372-4.
 [^7]: Lev-Yadun S, Ne'eman G, Abbo S, Flaishman MA. Comment on "Early domesticated fig in the Jordan Valley". Science. 2006 Dec 15;314(5806):1683; author reply 1683.
 [^8]: [Mawa, S., Husain, K., & Jantan, I. (2013). Ficus carica L. (Moraceae): Phytochemistry, Traditional Uses and Biological Activities. Evidence-based complementary and alternative medicine : eCAM, 2013, 974256] (https://doi.org/10.1155/2013/974256)
