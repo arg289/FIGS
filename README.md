@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="_Ficus Carica_: A History"
+       title="The Extraordinary Common Fig"
        author="Elise Boisvert, Emma Van Metre, Alejandra Gonzalez"
        banner="https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/elizabethblackwell_curiousherbal_fig.jpg?w=1366&ssl=1" 
        layout="vertical">
