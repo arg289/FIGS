@@ -31,14 +31,14 @@ Figs prefer a subtropical environment, and individual trees in some areas have b
 <param ve-image 
        url="https://kalliergeia.com/wp-content/uploads/2018/03/14.-Ficus-carica-Kommi.jpg">
 
-Most modern varieties of the common fig are parthenocarpic, meaning they do not require pollination to set “fruit,” and they do not produce viable seed. These must be propagated by cutting. Other cultivars (Smyrna, or the California-grown hybrids Calimyrna) must be pollinated in order to set fruit. This is done by a species of wasp, Blastophega psenes [^1](Anjam, et al., 2017). 
+Most modern varieties of the common fig are parthenocarpic, meaning they do not require pollination to set “fruit,” and they do not produce viable seed. These must be propagated by cutting. Other cultivars (Smyrna, or the California-grown hybrids Calimyrna) must be pollinated in order to set fruit. This is done by a species of wasp, Blastophega psenes (Anjam, et al., 2017)[^1]. 
 
 <param ve-image 
        url="https://alchetron.com/cdn/blastophaga-psenes-c5620701-61e1-4916-9f7c-1cfb0512c54-resize-750.jpeg">
 
 ## Blastophega Wasp
 
-The life cycle of Blastophega psenes is inextricably tied to that of Ficus carica. They spend their whole life cycle inside the fig, although they only live 1-2 days. Wasps hatch inside short-style female flowers inside the syconia of ‘male’ trees (sex determination in fig is complex, but some trees are functionally male and others have only female flowers). Male wasps emerge first, and then fertilize the yet-unemerged female wasps while they are still inside the flower ovaries in which they grow. The wingless males live and die within the syconium. The female wasps mature at the same moment as the pollen on the male flowers, so as they crawl out to begin their journey, they are dusted with fig pollen (Condit, 1920)[^2]. The female wasps then find a new syconium in which to lay their eggs. If the syconium they enter has the dominant G allele, its flowers will have short styles and the wasp will be able to oviposit eggs, and will pollinate the flowers while doing so. The seeds of those flowers are almost all doomed to be eaten by the young wasp larvae that develop within the ovaries. If, however, the female wasps choose a syconium with recessive g flowers, then they are unable to lay eggs because the styles are longer than their ovipositors, however during their attempt, they will pollinate the flowers, allowing them to set fertile seeds [^3](Armstrong, 1988).
+The life cycle of Blastophega psenes is inextricably tied to that of Ficus carica. They spend their whole life cycle inside the fig, although they only live 1-2 days. Wasps hatch inside short-style female flowers inside the syconia of ‘male’ trees (sex determination in fig is complex, but some trees are functionally male and others have only female flowers). Male wasps emerge first, and then fertilize the yet-unemerged female wasps while they are still inside the flower ovaries in which they grow. The wingless males live and die within the syconium. The female wasps mature at the same moment as the pollen on the male flowers, so as they crawl out to begin their journey, they are dusted with fig pollen (Condit, 1920)[^4]. The female wasps then find a new syconium in which to lay their eggs. If the syconium they enter has the dominant G allele, its flowers will have short styles and the wasp will be able to oviposit eggs, and will pollinate the flowers while doing so. The seeds of those flowers are almost all doomed to be eaten by the young wasp larvae that develop within the ovaries. If, however, the female wasps choose a syconium with recessive g flowers, then they are unable to lay eggs because the styles are longer than their ovipositors, however during their attempt, they will pollinate the flowers, allowing them to set fertile seeds (Armstrong, 1988)[^3].
 <param ve-image 
        label="Fig Wasps" 
        description="Life cycle of a fig wasp" 
@@ -46,21 +46,21 @@ The life cycle of Blastophega psenes is inextricably tied to that of Ficus caric
 
 ## Early Domestic Fig in the Jordan Valley 
 
-In this article, Kislev et al. investigates carbonized fig fruits and drupelets found in Gilgal I, an early Neolithic village in the Lower Jordan Valley. The remains date back to 11,400-11,200 years ago, prior even to the domestication of cereals. The authors suggest that because the figs found were from parthenocarpic trees(varieties that mainly produce seedless figs that must be propagated by cutting) that this finding is evidence of propagation and cultivation, possibly the first known evidence of domestication. 
+In this article, Kislev et al.[^6] investigates carbonized fig fruits and drupelets found in Gilgal I, an early Neolithic village in the Lower Jordan Valley. The remains date back to 11,400-11,200 years ago, prior even to the domestication of cereals. The authors suggest that because the figs found were from parthenocarpic trees (varieties that mainly produce seedless figs that must be propagated by cutting) that this finding is evidence of propagation and cultivation, possibly the first known evidence of domestication. 
 
 <param ve-image 
        label="Carbonized fig fruit (Ficus carica var. domestica) from Gilgal I, broken lengthwise."
        decription="Orifice (A) surrounded by scales (B). The fruit skin (C) covers the thin fruitflesh (D) and its inner part (E), which includes the empty drupelets (F). Scale bar, 5 mm. [Panoramic scanning electron microscope micrographs by Y. Langsam]"
        url="https://www-science-org.proxy.library.cornell.edu/cms/10.1126/science.1125910/asset/80b41b9b-b5d2-44d8-af34-517175674c00/assets/graphic/312_1372_f1.jpeg">
 
-However, this finding is not without controversy. Lev-Yadun et al. argues that even parthenocarpic varieties may sometimes produce fruit with viable seed and that these varieties could have grown in the area randomly.
+However, this finding is not without controversy. Lev-Yadun et al.[^7] argues that even parthenocarpic varieties may sometimes produce fruit with viable seed and that these varieties could have grown in the area randomly.
 
 <param ve-image
         label="Further carbonized fig remains found at Gilgal I, photograph courtesy of Jonathan Reif"
         url="https://media.npr.org/programs/morning/features/2006/jun/figs/fig_remains200-203f02186c687880d2c603e5e5e4c0837e1a7c2b-s600-c85.webp">
 
 
-In a final rebuttal, Kislev et al. makes the argument that while there were seeded varieties of fig found at nearby sites, only the parthenocarpic varieties were found at Gilgal I, suggesting that cuttings of these varieties were intentionally planted in the settlement.
+In a final rebuttal, Kislev et al.[^6] makes the argument that while there were seeded varieties of fig found at nearby sites, only the parthenocarpic varieties were found at Gilgal I, suggesting that cuttings of these varieties were intentionally planted in the settlement.
 
 <param ve-image 
        label="An ancient fig (left) prepared to be analyzed under the microscope. To its right are an Iranian and Turkish variety respectively, photograph courtesy of Jonathan Reif"
