@@ -57,14 +57,14 @@ However, this finding is not without controversy. Lev-Yadun et al. argues that e
 
 <param ve-image
         label="Further carbonized fig remains found at Gilgal I, photograph courtesy of Jonathan Reif"
-        url="https://media.npr.org/programs/morning/features/2006/jun/figs/three_figs200-35c0bfae287a209855681e8d3b5a3dd5d9282217-s600-c85.webp"
+        url="https://media.npr.org/programs/morning/features/2006/jun/figs/three_figs200-35c0bfae287a209855681e8d3b5a3dd5d9282217-s600-c85.webp">
 
 
 In a final rebuttal, Kislev et al. makes the argument that while there were seeded varieties of fig found at nearby sites, only the parthenocarpic varieties were found at Gilgal I, suggesting that cuttings of these varieties were intentionally planted in the settlement.
 
 <param ve-image 
        label="An ancient fig (left) prepared to be analyzed under the microscope. To its right are an Iranian and Turkish variety respectively, photograph courtesy of Jonathan Reif"
-       url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/msnbc/Components/Photos/060601/figs.jpg"
+       url="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/msnbc/Components/Photos/060601/figs.jpg">
 
 
 ## Medicinal Properties
@@ -79,7 +79,7 @@ Figs are well documented in antiquity given their very early domestication. They
 
 <param ve-image 
        label="Kalamata String Figs. In ancient times, figs would often be strung together in a similar manner to this to aid with portability "
-       url="https://www2.palomar.edu/users/warmstrong/images2/figstring1b.jpg"
+       url="https://www2.palomar.edu/users/warmstrong/images2/figstring1b.jpg">
        
 They are especially present in the realm of religion. For the Ancient Egyptians, the fig symbolized rebirth and divinity as in their mythology a fig tree sprouted from the corpse of the god Osiris. In Abrahamic theology, the first tree mentioned by the Bible in the prosperous Garden of Eden. As such, the fig is often seen as a symbol of prosperity and a blessing from God, as well as being held by some as a symbol of Israel itself. In addition, many scholars in the Jewish and Islamic tradition hold that it was a fig, not an apple, that was the forbidden fruit that Adam and Eve ate (side note: the idea that it was an apple comes from a later play on words in Latin, the word for apple in that language is the same as the word for evil: malus). Finally, Adam and Eve were said to have used fig leaves to cover themselves after eating the fruit of good and evil. This is why with many classic statues, the figures are depicted with fig leaves covering the genitals.
        
@@ -87,7 +87,7 @@ The fig is also very important to Buddhist tradition, as it was under this tree 
 
 <param ve-image 
        label="A fresh F. Religiosa leaf next to a dried counterpart. A traditional scene has been painted onto the leaf, highlighting its cultural significance"
-       url="https://www2.palomar.edu/users/warmstrong/images2/ficrelig2b.jpg"
+       url="https://www2.palomar.edu/users/warmstrong/images2/ficrelig2b.jpg">
 
 # References
 
