@@ -93,7 +93,7 @@ The fig is also very important to Buddhist tradition, as it was under this tree 
 
 “Some people, once gathered the figs, remove the peduncles and spread them in the sun. When the figs are dried a little, before they turn hard, they place them in terracotta or stone basins, then they crush the figs with their clean feet in the same way as flour, and add roasted sesame, Egyptian anise, fennel, and cumin seeds. Once the ingredients are well mixed, they wrap little cakes (made with this paste) in fig leaves and tie them with reeds or the kind of herb they prefer, and place the cakes on lattices leaving them to dry. When the cakes are completely dry, they keep them into pitched vessels.”
 
-param ve-image 
+<param ve-image 
         label="From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture from the 1400s. Translated into English”
         url="https://www.ameliesourget.net/wp-content/uploads/2016/11/Caton1.jpg">
 
