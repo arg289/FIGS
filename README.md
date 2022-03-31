@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="FIGS"
-       author="Elise Boisvert, Emma Van Metre, Alejandra Gonzalez, JSTOR Labs team"
+       title="_Ficus Carica_: A History"
+       author="Elise Boisvert, Emma Van Metre, Alejandra Gonzalez"
        banner="https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/elizabethblackwell_curiousherbal_fig.jpg?w=1366&ssl=1" 
        layout="vertical">
 
@@ -88,6 +88,14 @@ The fig is also very important to Buddhist tradition, as it was under this tree 
 <param ve-image 
        label="A fresh F. Religiosa leaf next to a dried counterpart. A traditional scene has been painted onto the leaf, highlighting its cultural significance"
        url="https://www2.palomar.edu/users/warmstrong/images2/ficrelig2b.jpg">
+    
+## Recipes 
+
+“Some people, once gathered the figs, remove the peduncles and spread them in the sun. When the figs are dried a little, before they turn hard, they place them in terracotta or stone basins, then they crush the figs with their clean feet in the same way as flour, and add roasted sesame, Egyptian anise, fennel, and cumin seeds. Once the ingredients are well mixed, they wrap little cakes (made with this paste) in fig leaves and tie them with reeds or the kind of herb they prefer, and place the cakes on lattices leaving them to dry. When the cakes are completely dry, they keep them into pitched vessels.”
+
+param ve-image 
+        label="From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture from the 1400s. Translated into English”
+        url="https://www.ameliesourget.net/wp-content/uploads/2016/11/Caton1.jpg">
 
 # References
 
