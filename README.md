@@ -52,7 +52,7 @@ In this article, Kislev et al. investigates carbonized fig fruits and drupelets 
        label="Carbonized fig fruit (Ficus carica var. domestica) from Gilgal I, broken lengthwise."
        decription="Orifice (A) surrounded by scales (B). The fruit skin (C) covers the thin fruitflesh (D) and its inner part (E), which includes the empty drupelets (F). Scale bar, 5 mm. [Panoramic scanning electron microscope micrographs by Y. Langsam]"
        url="https://www-science-org.proxy.library.cornell.edu/cms/10.1126/science.1125910/asset/80b41b9b-b5d2-44d8-af34-517175674c00/assets/graphic/312_1372_f1.jpeg"
-       
+
 However, this finding is not without controversy. Lev-Yadun et al. argues that even parthenocarpic varieties may sometimes produce fruit with viable seed and that these varieties could have grown in the area randomly.
 
 <param ve-image
