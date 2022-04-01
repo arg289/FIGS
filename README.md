@@ -31,7 +31,7 @@ Figs prefer a subtropical environment, and individual trees in some areas have b
 <param ve-image 
        url="https://plantlet.org/wp-content/uploads/2020/11/IMG_20201124_155622.jpg">
        
-Fig seeds are an ovoid shape and are no more than 1.5mm in diameter. They have a soft hazel color and a smooth surface with the hilum at the tip. The fig dispersal range can be influenced by animals (including birds), who eat the fruits and then disperse the seed. Additionally, brittle branches that can easily break off can end up washed up in new places after a storm.
+Fig seeds are an ovoid shape and are no more than 1.5mm in diameter. They have a soft hazel color and a smooth surface with the hilum at the tip. The fig dispersal range can be influenced by animals (including birds), who eat the fruits and then disperse the seed. Additionally, brittle branches that can easily break off can end up washed up in new places after a storm [^5].
 <param ve-image
        url="https://www2.palomar.edu/users/warmstrong/images2/verte4b.jpg">
 
@@ -112,7 +112,12 @@ From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture 
 <param ve-image 
         label="From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture from the 1400s. Translated into English”
         url="https://www.ameliesourget.net/wp-content/uploads/2016/11/Caton1.jpg">
-
+                                                                                 
+Ricotta cheese: From Spiri Tsintziras’ memoir _Afternoons in Ithaca_, a recipe details instructions for fig-sap ricotta. Simply add 3 or more drops of fig latex to milk, wait twelve hours, drain the curds, and marvel at your cheese!
+                                                                                
+<param ve-image 
+        label="Adding 3 drops of fig latex to one liter of milk"
+        url="https://votedwithourforks.files.wordpress.com/2015/03/figsap.jpg">                                                        
                                                                                  
                                                                                  
 # References
@@ -125,7 +130,7 @@ From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture 
 [^6]: [“Figs” Turismo Roma. (2022, January 28). Retrieved March 30, 2022](https://www.turismoroma.it/en/2092013-i-fichi)
 [^7]: Kislev ME, Hartmann A, Bar-Yosef O. Early domesticated fig in the Jordan Valley. Science. 2006 Jun 2;312(5778):1372-4.
 [^8]: Lev-Yadun S, Ne'eman G, Abbo S, Flaishman MA. Comment on "Early domesticated fig in the Jordan Valley". Science. 2006 Dec 15;314(5806):1683; author reply 1683.
-[^9]: [Mawa, S., Husain, K., & Jantan, I. (2013). Ficus carica L. (Moraceae): Phytochemistry, Traditional Uses and Biological Activities. Evidence-based complementary and alternative medicine : eCAM, 2013, 974256] (https://doi.org/10.1155/2013/974256)
-[^10]: [Santos, F. (2010, February 15). Custom of wrapping fig trees for the ... - The New York Times. New York Times. Retrieved April 1, 2022] (https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html)                                                                                                            
-[^11]: [Wilson, David, and Anna Wilson. “Figs as a Global Spiritual and Material Resource for Humans.” Human Ecology 41, no. 3 (2013): 459–64.] (http://www.jstor.org/stable/24013754)                                                                                                            
+[^9]: [Mawa, S., Husain, K., & Jantan, I. (2013). Ficus carica L. (Moraceae): Phytochemistry, Traditional Uses and Biological Activities. Evidence-based complementary and alternative medicine : eCAM, 2013, 974256](https://doi.org/10.1155/2013/974256)
+[^10]: [Santos, F. (2010, February 15). Custom of wrapping fig trees for the ... - The New York Times. New York Times. Retrieved April 1, 2022](https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html)                                                                                             
+[^11]: [Wilson, David, and Anna Wilson. “Figs as a Global Spiritual and Material Resource for Humans.” Human Ecology 41, no. 3 (2013): 459–64.](http://www.jstor.org/stable/24013754)                                                                                                            
 
