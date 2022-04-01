@@ -18,7 +18,8 @@
 _Ficus carica_, the common fig, is recognized by many to be the first fruit cultivated by humans. It has been used for food, medicine, and spirituality. Grown as a tree or a large shrub, the fig itself is not technically a fruit, but it’s a syconium. A syconium is a fleshy expansion of a stem with a hollow area within which many tiny flowers grow. These tiny flowers develop into tiny fruits. Therefore, the fig can be thought to be filled with many tiny fruits, rather than as a single fruit. 
  
 <param ve-image 
-       url="https://radeecalcommunications.files.wordpress.com/2017/08/fig3.jpg">
+       url="https://radeecalcommunications.files.wordpress.com/2017/08/fig3.jpg"
+       url="https://www2.palomar.edu/users/warmstrong/images4/FigDraw2c.gif">
 
 _F. carica_ has been grown, bred and enjoyed by humans for over 11,000 years. Originating in Asia Minor (part of modern day Turkey), it is now naturalized throughout much of Asia and North America, and is cultivated for production, and as an ornamental across the globe. Its spread was facilitated in large part by trade and the movement of peoples. 
 
@@ -131,6 +132,7 @@ Ricotta cheese: From Spiri Tsintziras’ memoir _Afternoons in Ithaca_, a recipe
 [^7]: Kislev ME, Hartmann A, Bar-Yosef O. Early domesticated fig in the Jordan Valley. Science. 2006 Jun 2;312(5778):1372-4.
 [^8]: Lev-Yadun S, Ne'eman G, Abbo S, Flaishman MA. Comment on "Early domesticated fig in the Jordan Valley". Science. 2006 Dec 15;314(5806):1683; author reply 1683.
 [^9]: [Mawa, S., Husain, K., & Jantan, I. (2013). Ficus carica L. (Moraceae): Phytochemistry, Traditional Uses and Biological Activities. Evidence-based complementary and alternative medicine : eCAM, 2013, 974256](https://doi.org/10.1155/2013/974256)
-[^10]: [Santos, F. (2010, February 15). Custom of wrapping fig trees for the ... - The New York Times. New York Times. Retrieved April 1, 2022](https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html)                                                                                             
-[^11]: [Wilson, David, and Anna Wilson. “Figs as a Global Spiritual and Material Resource for Humans.” Human Ecology 41, no. 3 (2013): 459–64.](http://www.jstor.org/stable/24013754)                                                                                                            
+[^10]: [Santos, F. (2010, February 15). Custom of wrapping fig trees for the ... - The New York Times. New York Times. Retrieved April 1, 2022](https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html) 
+[^11]: Contributors, W. M. D. E. (n.d.). Figs: Health benefits, nutrients per serving, preparation information, and more. WebMD. Retrieved April 1, 2022, from https://www.webmd.com/diet/health-benefits-figs 
+[^12]: [Wilson, David, and Anna Wilson. “Figs as a Global Spiritual and Material Resource for Humans.” Human Ecology 41, no. 3 (2013): 459–64.](http://www.jstor.org/stable/24013754)                                                                                                            
 
