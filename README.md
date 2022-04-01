@@ -81,6 +81,13 @@ Though rather different from the common fig, other varieties also have medicinal
        label="A botanical drawing that Elizabeth Blackwell made for her famous 1700s book A Curious Herbal"
        url="https://i2.wp.com/www.themarginalian.org/wp-content/uploads/2020/01/elizabethblackwell_curiousherbal_fig.jpg?w=1366&ssl=1">
        
+## Seasonality and Care 
+
+Because figs won’t “come true” from seed, they are usually propagated by cutting. This is best done in the spring so that the plants have a full season to mature before winter. The plants prefer a warm subtropical climate (most fig production in the US takes place in California which is on the same latitude as Turkey where the majority of the world’s figs are produced), and given the right conditions, will produce two crops per year, one in early summer and one in late fall. Some varieties, though, can be grown much further north. One article in the NY Times covers the story of Italian immigrants bringing cuttings of their favorite cultivars from back home when they immigrated, and planted them in NY. During the winter, they would cover the trees in canvas to protect them from harsh winter weather. People in the Northern United States still cover their trees this way, or bend them all the way over and cover them with soil to keep them protected from freezing. 
+
+<param ve-image 
+       url="https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html">
+
 ## Importance of Figs in Culture 
        
 Figs are well documented in antiquity given their very early domestication. They have a significant and illustrious history of interaction with humans that spans back thousands of years. It is claimed that Alexander the Great camped his army beneath the branches of an enormous Indian Banyan or F. Benghalensis. Plato extolled the virtues of the fig to his students and was known by the epithet of “fig eater”  because of his great love for them. The founders of Rome, Romulus and Remus, were said to have been suckled beneath a wild fig tree, the F. Ruminalis.
@@ -99,12 +106,14 @@ The fig is also very important to Buddhist tradition, as it was under this tree 
     
 ## Recipes 
 
-“Some people, once gathered the figs, remove the peduncles and spread them in the sun. When the figs are dried a little, before they turn hard, they place them in terracotta or stone basins, then they crush the figs with their clean feet in the same way as flour, and add roasted sesame, Egyptian anise, fennel, and cumin seeds. Once the ingredients are well mixed, they wrap little cakes (made with this paste) in fig leaves and tie them with reeds or the kind of herb they prefer, and place the cakes on lattices leaving them to dry. When the cakes are completely dry, they keep them into pitched vessels.”
+From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture from the 1400s: “Some people, once gathered the figs, remove the peduncles and spread them in the sun. When the figs are dried a little, before they turn hard, they place them in terracotta or stone basins, then they crush the figs with their clean feet in the same way as flour, and add roasted sesame, Egyptian anise, fennel, and cumin seeds. Once the ingredients are well mixed, they wrap little cakes (made with this paste) in fig leaves and tie them with reeds or the kind of herb they prefer, and place the cakes on lattices leaving them to dry. When the cakes are completely dry, they keep them into pitched vessels.”
 
 <param ve-image 
         label="From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture from the 1400s. Translated into English”
         url="https://www.ameliesourget.net/wp-content/uploads/2016/11/Caton1.jpg">
 
+                                                                                 
+                                                                                 
 # References
 
 [^1]: [Anjam, K., Khadivi-Khub, A. & Sarkhosh, A. The Potential of Caprifig Genotypes for Sheltering Blastophaga psenes L. for Caprification of Edible Figs. Erwerbs-Obstbau 59, 45–49 (2017).](https://doi.org/10.1007/s10341-016-0296-4)
