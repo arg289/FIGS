@@ -86,7 +86,7 @@ Though rather different from the common fig, other varieties also have medicinal
 Because figs won’t “come true” from seed, they are usually propagated by cutting. This is best done in the spring so that the plants have a full season to mature before winter. The plants prefer a warm subtropical climate (most fig production in the US takes place in California which is on the same latitude as Turkey where the majority of the world’s figs are produced), and given the right conditions, will produce two crops per year, one in early summer and one in late fall. Some varieties, though, can be grown much further north. One article in the NY Times covers the story of Italian immigrants bringing cuttings of their favorite cultivars from back home when they immigrated, and planted them in NY. During the winter, they would cover the trees in canvas to protect them from harsh winter weather. People in the Northern United States still cover their trees this way, or bend them all the way over and cover them with soil to keep them protected from freezing. 
 
 <param ve-image 
-       url="https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html">
+       url="https://static01.nyt.com/images/2010/02/16/nyregion/16figtrees_inline/16figtrees_inline-popup.jpg?quality=75&auto=webp&disable=upscale">
 
 ## Importance of Figs in Culture 
        
