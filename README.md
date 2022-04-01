@@ -15,7 +15,7 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 ## First Cultivated Fruit
-_Ficus carica_, the common fig, is recognized by many to be the first fruit cultivated by humans. It has been used for food, medicine, and spirituality. Grown as a tree or a large shrub, the fig itself is not technically a fruit, but it’s a syconium. A syconium is a fleshy expansion of a stem with a hollow area within which many tiny flowers grow. These tiny flowers develop into tiny fruits. Therefore, the fig can be thought to be filled with many tiny fruits, rather than as a single fruit[^2] See the image to the right[^3]. 
+_Ficus carica_, the common fig, is recognized by many to be the first fruit cultivated by humans. It has been used for food, medicine, and spirituality. Grown as a tree or a large shrub, the fig itself is not technically a fruit, but it’s a syconium. A syconium is a fleshy expansion of a stem with a hollow area within which many tiny flowers grow. These tiny flowers develop into tiny fruits. Therefore, the fig can be thought to be filled with many tiny fruits, rather than as a single fruit. See the image to the right[^3]. 
  
 <param ve-image 
        url="https://radeecalcommunications.files.wordpress.com/2017/08/fig3.jpg">
@@ -53,21 +53,21 @@ The life cycle of Blastophega psenes is inextricably tied to that of Ficus caric
 
 ## Early Domestic Fig in the Jordan Valley 
 
-Archeological findings of figs seem to be relatively rare. The fruits are unlikely to be preserved unless charred, and since figs are rarely cooked, charring is less likely. However, there are some interesting examples of fig remains in the archeological record. In an article by Kislev et al.[^6] researchers investigate carbonized fig fruits and drupelets found in Gilgal I, an early Neolithic village in the Lower Jordan Valley. The remains date back to 11,400-11,200 years ago, prior even to the domestication of cereals. The authors suggest that because the figs found were from parthenocarpic trees (varieties that mainly produce seedless figs that must be propagated by cutting) that this finding is evidence of propagation and cultivation, possibly the first known evidence of domestication. 
+Archeological findings of figs seem to be relatively rare. The fruits are unlikely to be preserved unless charred, and since figs are rarely cooked, charring is less likely. However, there are some interesting examples of fig remains in the archeological record. In an article by Kislev et al.[^7] researchers investigate carbonized fig fruits and drupelets found in Gilgal I, an early Neolithic village in the Lower Jordan Valley. The remains date back to 11,400-11,200 years ago, prior even to the domestication of cereals. The authors suggest that because the figs found were from parthenocarpic trees (varieties that mainly produce seedless figs that must be propagated by cutting) that this finding is evidence of propagation and cultivation, possibly the first known evidence of domestication. 
 
 <param ve-image 
        label="Carbonized fig fruit (Ficus carica var. domestica) from Gilgal I, broken lengthwise."
        decription="Orifice (A) surrounded by scales (B). The fruit skin (C) covers the thin fruitflesh (D) and its inner part (E), which includes the empty drupelets (F). Scale bar, 5 mm. [Panoramic scanning electron microscope micrographs by Y. Langsam]"
        url="https://www-science-org.proxy.library.cornell.edu/cms/10.1126/science.1125910/asset/80b41b9b-b5d2-44d8-af34-517175674c00/assets/graphic/312_1372_f1.jpeg">
 
-However, this finding is not without controversy. Lev-Yadun et al.[^7] argues that even parthenocarpic varieties may sometimes produce fruit with viable seed and that these varieties could have grown in the area randomly.
+However, this finding is not without controversy. Lev-Yadun et al.[^8] argues that even parthenocarpic varieties may sometimes produce fruit with viable seed and that these varieties could have grown in the area randomly.
 
 <param ve-image
         label="Further carbonized fig remains found at Gilgal I, photograph courtesy of Jonathan Reif"
         url="https://media.npr.org/programs/morning/features/2006/jun/figs/fig_remains200-203f02186c687880d2c603e5e5e4c0837e1a7c2b-s1100-c50.jpg">
 
 
-In a final rebuttal, Kislev et al.[^6] makes the argument that while there were seeded varieties of fig found at nearby sites, only the parthenocarpic varieties were found at Gilgal I, suggesting that cuttings of these varieties were intentionally planted in the settlement.
+In a final rebuttal, Kislev et al.[^7] makes the argument that while there were seeded varieties of fig found at nearby sites, only the parthenocarpic varieties were found at Gilgal I, suggesting that cuttings of these varieties were intentionally planted in the settlement.
 
 <param ve-image 
        label="An ancient fig (left) prepared to be analyzed under the microscope. To its right are an Iranian and Turkish variety respectively, photograph courtesy of Jonathan Reif"
@@ -116,7 +116,7 @@ From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture 
        label="From Columella’s ‘De Re Rustica,’ a 12-part latin treatise on agriculture from the 1400s. Translated into English"
        url="https://www.ameliesourget.net/wp-content/uploads/2016/11/Caton1.jpg">
                                                                                  
-Ricotta cheese: From Spiri Tsintziras’ memoir _Afternoons in Ithaca_, a recipe details instructions for fig-sap ricotta. Simply add 3 or more drops of fig latex to milk, wait twelve hours, drain the curds, and marvel at your cheese!
+Ricotta cheese: From Spiri Tsintziras’ memoir _Afternoons in Ithaca_, a recipe details instructions for fig-sap ricotta[^13]. Simply add 3 or more drops of fig latex to milk, wait twelve hours, drain the curds, and marvel at your cheese!
                                                                                 
 <param ve-image 
         label="Adding 3 drops of fig latex to one liter of milk"
@@ -137,4 +137,4 @@ Ricotta cheese: From Spiri Tsintziras’ memoir _Afternoons in Ithaca_, a recipe
 [^10]: [Santos, F. (2010, February 15). Custom of wrapping fig trees for the ... - The New York Times. New York Times. Retrieved April 1, 2022](https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html) 
 [^11]: [Contributors, W. M. D. E. (n.d.). Figs: Health benefits, nutrients per serving, preparation information, and more. WebMD. Retrieved April 1, 2022](https://www.webmd.com/diet/health-benefits-figs) 
 [^12]: [Wilson, David, and Anna Wilson. “Figs as a Global Spiritual and Material Resource for Humans.” Human Ecology 41, no. 3 (2013): 459–64.](http://www.jstor.org/stable/24013754)                                                                                                            
-
+[^13]: [Andrews, L. (2015, March 28). Fig-sap Ricotta. Voted With Our Forks. Retrieved April 1, 2022](https://votedwithourforks.wordpress.com/2015/03/28/fig-sap-ricotta/)
