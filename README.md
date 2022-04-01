@@ -29,7 +29,7 @@ _F. carica_ has been grown, bred and enjoyed by humans for over 11,000 years. Or
 Figs prefer a subtropical environment, and individual trees in some areas have been known to grow to be 100s of years old, with the oldest being 285 years old. F. carica is the largest genus in the Moraceae family, which includes Mulberry and Osage Orange. All Moraceae have laticifers, networks of specialized cells that produce a milky white latex sap for healing in response to damage.
 
 <param ve-image 
-       url="https://ars.els-cdn.com/content/image/1-s2.0-S0065229619300801-gr1.jpg">
+       url="https://plantlet.org/wp-content/uploads/2020/11/IMG_20201124_155622.jpg">
 
 Most modern varieties of the common fig are parthenocarpic, meaning they do not require pollination to set “fruit,” and they do not produce viable seed. These must be propagated by cutting. Other cultivars (Smyrna, or the California-grown hybrids Calimyrna) must be pollinated in order to set fruit. This is done by a species of wasp, Blastophega psenes (Anjam, et al., 2017)[^1]. 
 
