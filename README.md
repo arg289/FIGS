@@ -18,7 +18,9 @@
 _Ficus carica_, the common fig, is recognized by many to be the first fruit cultivated by humans. It has been used for food, medicine, and spirituality. Grown as a tree or a large shrub, the fig itself is not technically a fruit, but it’s a syconium. A syconium is a fleshy expansion of a stem with a hollow area within which many tiny flowers grow. These tiny flowers develop into tiny fruits. Therefore, the fig can be thought to be filled with many tiny fruits, rather than as a single fruit. 
  
 <param ve-image 
-       url="https://radeecalcommunications.files.wordpress.com/2017/08/fig3.jpg"
+       url="https://radeecalcommunications.files.wordpress.com/2017/08/fig3.jpg">
+       
+<param ve-image
        url="https://www2.palomar.edu/users/warmstrong/images4/FigDraw2c.gif">
 
 _F. carica_ has been grown, bred and enjoyed by humans for over 11,000 years. Originating in Asia Minor (part of modern day Turkey), it is now naturalized throughout much of Asia and North America, and is cultivated for production, and as an ornamental across the globe. Its spread was facilitated in large part by trade and the movement of peoples. 
