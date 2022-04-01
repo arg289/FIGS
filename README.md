@@ -30,6 +30,10 @@ Figs prefer a subtropical environment, and individual trees in some areas have b
 
 <param ve-image 
        url="https://plantlet.org/wp-content/uploads/2020/11/IMG_20201124_155622.jpg">
+       
+Fig seeds are an ovoid shape and are no more than 1.5mm in diameter. They have a soft hazel color and a smooth surface with the hilum at the tip. 
+<param ve-image
+       url="https://www2.palomar.edu/users/warmstrong/images2/verte4b.jpg">
 
 Most modern varieties of the common fig are parthenocarpic, meaning they do not require pollination to set “fruit,” and they do not produce viable seed. These must be propagated by cutting. Other cultivars (Smyrna, or the California-grown hybrids Calimyrna) must be pollinated in order to set fruit. This is done by a species of wasp, Blastophega psenes (Anjam, et al., 2017)[^1]. 
 
