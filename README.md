@@ -15,13 +15,12 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 ## First Cultivated Fruit
-_Ficus carica_, the common fig, is recognized by many to be the first fruit cultivated by humans. It has been used for food, medicine, and spirituality. Grown as a tree or a large shrub, the fig itself is not technically a fruit, but it’s a syconium. A syconium is a fleshy expansion of a stem with a hollow area within which many tiny flowers grow. These tiny flowers develop into tiny fruits. Therefore, the fig can be thought to be filled with many tiny fruits, rather than as a single fruit[^2]. 
+_Ficus carica_, the common fig, is recognized by many to be the first fruit cultivated by humans. It has been used for food, medicine, and spirituality. Grown as a tree or a large shrub, the fig itself is not technically a fruit, but it’s a syconium. A syconium is a fleshy expansion of a stem with a hollow area within which many tiny flowers grow. These tiny flowers develop into tiny fruits. Therefore, the fig can be thought to be filled with many tiny fruits, rather than as a single fruit[^2] See the image to the right[^3]. 
  
 <param ve-image 
        url="https://radeecalcommunications.files.wordpress.com/2017/08/fig3.jpg">
        
 <param ve-image
-       label="[^3]"
        url="https://www2.palomar.edu/users/warmstrong/images4/FigDraw2c.gif">
 
 _F. carica_ has been grown, bred and enjoyed by humans for over 11,000 years. Originating in Asia Minor (part of modern day Turkey), it is now naturalized throughout much of Asia and North America, and is cultivated for production, and as an ornamental across the globe. Its spread was facilitated in large part by trade and the movement of peoples. 
@@ -78,7 +77,7 @@ In a final rebuttal, Kislev et al.[^6] makes the argument that while there were 
 ## Medicinal Properties
 
 According to WebMD, a fig contains 37 calories, 0 grams of fat, no cholesterol, 1 milligram of sodiu, 10 grams carbohydrates, 1 gram of fiber, 8 grams of sugar and no protein. They are a good source of Vitamin A, Vitamin C, Calcium, Iron, Potassium and Magnesium[^11]. 
-Aside from the nutritional benefits, figs contain many medicinally active compounds as well. According to an article by Mawa et al.[^8], they contain high quantities of phenolic compounds such as proanthocyanadids (the same compounds that are active in red wine and tea) making them an excellent antioxidant. All parts of the plant have been used by various cultures in traditional medicines to treat a wide variety of ailments- it has been used to treat coughs in Malaysia, for example, and as a laxative in India. Fig juice has sometimes been mixed with honey to treat hemorrhage. Its medicinal properties have been noted by modern researchers as well, and it is used in cancer research, and is being investigated as an antispasmodic as well. 
+Aside from the nutritional benefits, figs contain many medicinally active compounds as well. According to an article by Mawa et al.[^9], they contain high quantities of phenolic compounds such as proanthocyanadids (the same compounds that are active in red wine and tea) making them an excellent antioxidant. All parts of the plant have been used by various cultures in traditional medicines to treat a wide variety of ailments- it has been used to treat coughs in Malaysia, for example, and as a laxative in India. Fig juice has sometimes been mixed with honey to treat hemorrhage. Its medicinal properties have been noted by modern researchers as well, and it is used in cancer research, and is being investigated as an antispasmodic as well. 
 Though rather different from the common fig, other varieties also have medicinal qualities. The latex produced by certain fig species (such as F. Insipida, F. Maxima, F. Obtusifolia and F. Paraensis) is used in South America to treat a range of medical conditions including gastrointestinal parasites and osteomuscular problems. The bark and leaves of certain fig trees also have medicinal properties and are often boiled and drunk in places like Ghana, Madagascar, and Zaire. 
 
 <param ve-image 
