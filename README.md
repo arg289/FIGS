@@ -57,7 +57,7 @@ However, this finding is not without controversy. Lev-Yadun et al.[^7] argues th
 
 <param ve-image
         label="Further carbonized fig remains found at Gilgal I, photograph courtesy of Jonathan Reif"
-        url="https://media.npr.org/programs/morning/features/2006/jun/figs/fig_remains200-203f02186c687880d2c603e5e5e4c0837e1a7c2b-s600-c85.webp">
+        url="https://media.npr.org/programs/morning/features/2006/jun/figs/fig_remains200-203f02186c687880d2c603e5e5e4c0837e1a7c2b-s1100-c50.jpg">
 
 
 In a final rebuttal, Kislev et al.[^6] makes the argument that while there were seeded varieties of fig found at nearby sites, only the parthenocarpic varieties were found at Gilgal I, suggesting that cuttings of these varieties were intentionally planted in the settlement.
