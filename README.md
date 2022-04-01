@@ -31,7 +31,7 @@ Figs prefer a subtropical environment, and individual trees in some areas have b
 <param ve-image 
        url="https://plantlet.org/wp-content/uploads/2020/11/IMG_20201124_155622.jpg">
        
-Fig seeds are an ovoid shape and are no more than 1.5mm in diameter. They have a soft hazel color and a smooth surface with the hilum at the tip. 
+Fig seeds are an ovoid shape and are no more than 1.5mm in diameter. They have a soft hazel color and a smooth surface with the hilum at the tip. The fig dispersal range can be influenced by animals (including birds), who eat the fruits and then disperse the seed. Additionally, brittle branches that can easily break off can end up washed up in new places after a storm.
 <param ve-image
        url="https://www2.palomar.edu/users/warmstrong/images2/verte4b.jpg">
 
@@ -111,9 +111,11 @@ The fig is also very important to Buddhist tradition, as it was under this tree 
 [^2]: Armstrong, W.P. 1988. "The Calimyrna Fig and Its Wasp." California Garden 79: 135-138.
 [^3]: [Armstrong, W. P. (n.d.). Ancient Figs Of The Holy Land. Figs of the holy land. Retrieved March 30, 2022](https://www2.palomar.edu/users/warmstrong/ww0501.htm)
 [^4]: Condit, I.J. 1920. "Caprifigs and Caprification." California Agriculture Experimental Station Bulletin 319: 341-377.
-[^5]: [“Figs” Turismo Roma. (2022, January 28). Retrieved March 30, 2022](https://www.turismoroma.it/en/2092013-i-fichi)
-[^6]: Kislev ME, Hartmann A, Bar-Yosef O. Early domesticated fig in the Jordan Valley. Science. 2006 Jun 2;312(5778):1372-4.
-[^7]: Lev-Yadun S, Ne'eman G, Abbo S, Flaishman MA. Comment on "Early domesticated fig in the Jordan Valley". Science. 2006 Dec 15;314(5806):1683; author reply 1683.
-[^8]: [Mawa, S., Husain, K., & Jantan, I. (2013). Ficus carica L. (Moraceae): Phytochemistry, Traditional Uses and Biological Activities. Evidence-based complementary and alternative medicine : eCAM, 2013, 974256] (https://doi.org/10.1155/2013/974256)
-[^9]: [Wilson, David, and Anna Wilson. “Figs as a Global Spiritual and Material Resource for Humans.” Human Ecology 41, no. 3 (2013): 459–64.] (http://www.jstor.org/stable/24013754)                                                                                                            
+[^5]: Ficus carica plant assessment form. California Invasive Plant Council. (2017, December 5). Retrieved April 1, 2022, from https://www.cal-ipc.org/plants/paf/ficus-carica-plant-assessment-form/                                                        
+[^6]: [“Figs” Turismo Roma. (2022, January 28). Retrieved March 30, 2022](https://www.turismoroma.it/en/2092013-i-fichi)
+[^7]: Kislev ME, Hartmann A, Bar-Yosef O. Early domesticated fig in the Jordan Valley. Science. 2006 Jun 2;312(5778):1372-4.
+[^8]: Lev-Yadun S, Ne'eman G, Abbo S, Flaishman MA. Comment on "Early domesticated fig in the Jordan Valley". Science. 2006 Dec 15;314(5806):1683; author reply 1683.
+[^9]: [Mawa, S., Husain, K., & Jantan, I. (2013). Ficus carica L. (Moraceae): Phytochemistry, Traditional Uses and Biological Activities. Evidence-based complementary and alternative medicine : eCAM, 2013, 974256] (https://doi.org/10.1155/2013/974256)
+[^10]: [Santos, F. (2010, February 15). Custom of wrapping fig trees for the ... - The New York Times. New York Times. Retrieved April 1, 2022] (https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html)                                                                                                            
+[^11]: [Wilson, David, and Anna Wilson. “Figs as a Global Spiritual and Material Resource for Humans.” Human Ecology 41, no. 3 (2013): 459–64.] (http://www.jstor.org/stable/24013754)                                                                                                            
 
