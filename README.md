@@ -14,7 +14,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# First Cultivated Fruit
+## First Cultivated Fruit
 _Ficus carica_, the common fig, is recognized by many to be the first fruit cultivated by humans. It has been used for food, medicine, and spirituality. Grown as a tree or a large shrub, the fig itself is not technically a fruit, but it’s a syconium. A syconium is a fleshy expansion of a stem with a hollow area within which many tiny flowers grow. These tiny flowers develop into tiny fruits. Therefore, the fig can be thought to be filled with many tiny fruits, rather than as a single fruit[^2]. 
  
 <param ve-image 
@@ -128,14 +128,14 @@ Ricotta cheese: From Spiri Tsintziras’ memoir _Afternoons in Ithaca_, a recipe
 
 [^1]: [Anjam, K., Khadivi-Khub, A. & Sarkhosh, A. The Potential of Caprifig Genotypes for Sheltering Blastophaga psenes L. for Caprification of Edible Figs. Erwerbs-Obstbau 59, 45–49 (2017).](https://doi.org/10.1007/s10341-016-0296-4)
 [^2]: Armstrong, W.P. 1988. "The Calimyrna Fig and Its Wasp." California Garden 79: 135-138.
-[^3]: [Armstrong, W. P. (n.d.). Ancient Figs Of The Holy Land. Figs of the holy land. Retrieved March 30, 2022(https://www2.palomar.edu/users/warmstrong/ww0501.htm)
+[^3]: [Armstrong, W. P. (n.d.). Ancient Figs Of The Holy Land. Figs of the holy land. Retrieved March 30, 2022](https://www2.palomar.edu/users/warmstrong/ww0501.htm)
 [^4]: Condit, I.J. 1920. "Caprifigs and Caprification." California Agriculture Experimental Station Bulletin 319: 341-377.
-[^5]: Ficus carica plant assessment form. California Invasive Plant Council. (2017, December 5). Retrieved April 1, 2022, from https://www.cal-ipc.org/plants/paf/ficus-carica-plant-assessment-form/                                                        
+[^5]: [Ficus carica plant assessment form. California Invasive Plant Council. (2017, December 5). Retrieved April 1, 2022](https://www.cal-ipc.org/plants/paf/ficus-carica-plant-assessment-form/)                                                        
 [^6]: [“Figs” Turismo Roma. (2022, January 28). Retrieved March 30, 2022](https://www.turismoroma.it/en/2092013-i-fichi)
 [^7]: Kislev ME, Hartmann A, Bar-Yosef O. Early domesticated fig in the Jordan Valley. Science. 2006 Jun 2;312(5778):1372-4.
 [^8]: Lev-Yadun S, Ne'eman G, Abbo S, Flaishman MA. Comment on "Early domesticated fig in the Jordan Valley". Science. 2006 Dec 15;314(5806):1683; author reply 1683.
 [^9]: [Mawa, S., Husain, K., & Jantan, I. (2013). Ficus carica L. (Moraceae): Phytochemistry, Traditional Uses and Biological Activities. Evidence-based complementary and alternative medicine : eCAM, 2013, 974256](https://doi.org/10.1155/2013/974256)
 [^10]: [Santos, F. (2010, February 15). Custom of wrapping fig trees for the ... - The New York Times. New York Times. Retrieved April 1, 2022](https://www.nytimes.com/2010/02/16/nyregion/16figtrees.html) 
-[^11]: Contributors, W. M. D. E. (n.d.). Figs: Health benefits, nutrients per serving, preparation information, and more. WebMD. Retrieved April 1, 2022, from https://www.webmd.com/diet/health-benefits-figs 
+[^11]: [Contributors, W. M. D. E. (n.d.). Figs: Health benefits, nutrients per serving, preparation information, and more. WebMD. Retrieved April 1, 2022](https://www.webmd.com/diet/health-benefits-figs) 
 [^12]: [Wilson, David, and Anna Wilson. “Figs as a Global Spiritual and Material Resource for Humans.” Human Ecology 41, no. 3 (2013): 459–64.](http://www.jstor.org/stable/24013754)                                                                                                            
 
